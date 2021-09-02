@@ -3,7 +3,7 @@
 - 💻 Atualmente trabalho como freelancer
 - 📚 Estudando Desenvolvimento de Sistemas - ETEC
 
- <div>
+<div>
   <a href="https://github.com/Jnrrr">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jnrrr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jnrrr&layout=compact&langs_count=7&theme=tokyonight"/>
