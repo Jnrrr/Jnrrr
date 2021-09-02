@@ -24,4 +24,7 @@
  <a href="https://discord.gg/K3sS4tP" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:juniorniltonex@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+ 
+ ![Snake animation](https://github.com/Jnrrr/Jnrrr/blob/output/github-contribution-grid-snake.svg)
+ 
+ </div>
