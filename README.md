@@ -16,7 +16,7 @@
   <img align="center" alt="Jnr-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Jnr-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Jnr-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="right" alt="Jnr-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/809581354734977024/907835782683832400/cat-bongo.gif">
+  <img align="right" alt="Jnr-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/809581354734977024/907836352014467102/cat.gif">
 </div>
   
 ##
