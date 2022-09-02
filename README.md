@@ -1,27 +1,28 @@
-### Olá!!! Bem-Vindo ao meu perfil!!
+<h1 align="left">Hi, I'm Nilton Sales</h1>
 
-- 💻 Atualmente trabalho como freelancer
-- 📚 Estudando Desenvolvimento de Sistemas - ETEC
+- 💻 I am currently working as Freelancer
 
-<div>
-  <a href="https://github.com/Jnrrr">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jnrrr&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jnrrr&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jnr-lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
-  <img align="center" alt="Jnr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jnr-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jnr-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jnr-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Jnr-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Jnr-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="right" alt="Jnr-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/809581354734977024/907836352014467102/cat.gif">
-</div>
-  
-##
-   
-  ![Snake animation](https://github.com/Jnrrr/Jnrrr/blob/output/github-contribution-grid-snake.svg)
- 
- </div>
+- 📚 Formed in Systems Development - [Etec Prof. Horácio Augusto da Silveira](https://www.linkedin.com/company/etechoracio/?originalSubdomain=br)
+
+
+## 🛠 &nbsp;Tech Stack
+
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-BOOTSTRAP-05122A?style=flat&logo=BOOTSTRAP)&nbsp;
+![Lua](https://img.shields.io/badge/-LUA-05122A?style=flat&logo=LUA)&nbsp;
+![C++](https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B)&nbsp;
+![C#](https://img.shields.io/badge/C%23-05122A.svg?style=flat&logo=C-SHARP)&nbsp;
+![Kotlin](https://img.shields.io/badge/-KOTLIN-05122A?style=flat&logo=KOTLIN)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JS-05122A?style=flat&logo=JAVASCRIPT)&nbsp;
+![Java](https://img.shields.io/badge/-JAVA-05122A?style=flat&logo=JAVA)&nbsp;
+
+
+## ⚙️ &nbsp;GitHub Analytics
+<br>
+
+<p align="center">
+<a href="https://github.com/Jnrrr">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jnrrr&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jnrrr&layout=compact&langs_count=7&theme=midnight-purple"/>
+
