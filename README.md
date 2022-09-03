@@ -16,6 +16,7 @@
 ![Kotlin](https://img.shields.io/badge/-KOTLIN-05122A?style=flat&logo=KOTLIN)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JS-05122A?style=flat&logo=JAVASCRIPT)&nbsp;
 ![Java](https://img.shields.io/badge/-JAVA-05122A?style=flat&logo=JAVA)&nbsp;
+![Figma](https://img.shields.io/badge/-FIGMA-05122A?style=flat&logo=FIGMA)&nbsp;
 
 
 ## ⚙️ &nbsp;GitHub Analytics
