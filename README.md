@@ -1,9 +1,10 @@
 <h1 align="left">Hi, I'm Nilton Sales</h1>
 
-- 💻 I am currently working as Freelancer
+👨‍💻 Currently working as a Technical Support Analyst - Lenovo
 
-- 📚 Formed in Systems Development - [Etec Prof. Horácio Augusto da Silveira](https://www.linkedin.com/company/etechoracio/?originalSubdomain=br)
+🎓 Technologist Degree in Systems Analysis and Development – [Cruzeiro do Sul EAD](https://www.cruzeirodosulvirtual.com.br)
 
+🎓 Technical Degree in Systems Development - [Etec Prof. Horácio Augusto da Silveira](https://www.linkedin.com/company/etechoracio/?originalSubdomain=br)
 
 ## 🛠 &nbsp;Tech Stack
 
